@@ -12,7 +12,7 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>http://appdown.zfpai.com/yami/IOS/yami.ipa</string>
+                        <string>http://appdown.1016wan.com/yami/IOS/yami.ipa</string>
                     </dict>
                     
                     <dict>
@@ -21,7 +21,7 @@
                         <key>needs-shine</key>
                         <true/>
                         <key>url</key>
-                        <string>http://appdown.zfpai.com/yami/IOS/60.png</string>
+                        <string>http://appdown.1016wan.com/yami/IOS/60.png</string>
                     </dict>
                     
                     <dict>
@@ -30,7 +30,7 @@
                         <key>needs-shine</key>
                         <true/>
                         <key>url</key>
-                        <string>http://appdown.zfpai.com/yami/IOS/60.png</string>
+                        <string>http://appdown.1016wan.com/yami/IOS/60.png</string>
                     </dict>
                 </array>
                 
